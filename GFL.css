@@ -49,7 +49,7 @@ body {
 }
 
 div#header-bottom-left a img {
-     -webkit-animation-name: spinner; 
+    -webkit-animation-name: spinner; 
     -webkit-animation-timing-function: linear; 
     -webkit-animation-iteration-count: infinite; 
     -webkit-animation-duration: 14s; 
@@ -376,45 +376,45 @@ body.comments-page div.content div.menuarea {
   margin: 0px 0px 0px 24px!important;
 }
 
-.comment {background-color: rgba(204,205,191,0.4)!important;}
-.comment .comment {background-color: rgba(204,205,191,0.4)!important;}
-.comment .comment .comment {background-color: rgba(204,205,191,0.4)!important;}
-.comment .comment .comment .comment {background-color: rgba(204,205,191,0.4)!important;}
-.comment .comment .comment .comment .comment {background-color: rgba(204,205,191,0.4)!important;}
-.comment .comment .comment .comment .comment .comment {background-color: rgba(204,205,191,0.4)!important;}
-.comment .comment .comment .comment .comment .comment .comment {background-color: rgba(204,205,191,0.4)!important;}
-.comment .comment .comment .comment .comment .comment .comment .comment {background-color: rgba(204,205,191,0.4)!important;}
-.comment .comment .comment .comment .comment .comment .comment .comment .comment {background-color: rgba(204,205,191,0.4)!important;}
-.comment .comment .comment .comment .comment .comment .comment .comment .comment .comment{background-color: rgba(204,205,191,0.4)!important;}
-.comment .comment .comment .comment .comment .comment .comment .comment .comment .comment .comment {background-color: rgba(204,205,191,0.4)!important;}
-.comment .comment .comment .comment .comment .comment .comment .comment .comment .comment .comment  .comment {background-color: rgba(204,205,191,0.4)!important;}
+.comment,
+.comment .comment,
+.comment .comment .comment,
+.comment .comment .comment .comment,
+.comment .comment .comment .comment .comment,
+.comment .comment .comment .comment .comment .comment,
+.comment .comment .comment .comment .comment .comment .comment,
+.comment .comment .comment .comment .comment .comment .comment .comment,
+.comment .comment .comment .comment .comment .comment .comment .comment .comment,
+.comment .comment .comment .comment .comment .comment .comment .comment .comment .comment,
+.comment .comment .comment .comment .comment .comment .comment .comment .comment .comment .comment,
+.comment .comment .comment .comment .comment .comment .comment .comment .comment .comment .comment .comment {background-color: rgba(204,205,191,0.4)!important;}
 
-.res .res-commentBoxes .comment {background-color: rgba(204,205,191,0.4)!important;}
-.res .res-commentBoxes .comment .comment {background-color: rgba(204,205,191,0.4)!important;}
-.res .res-commentBoxes .comment .comment .comment {background-color: rgba(204,205,191,0.4)!important;;}
-.res .res-commentBoxes .comment .comment .comment .comment {background-color: rgba(204,205,191,0.4)!important;}
-.res .res-commentBoxes .comment .comment .comment .comment .comment {background-color: rgba(204,205,191,0.4)!important;;}
-.res .res-commentBoxes .comment .comment .comment .comment .comment .comment {background-color: rgba(204,205,191,0.4)!important;}
-.res .res-commentBoxes .comment .comment .comment .comment .comment .comment .comment {background-color: rgba(204,205,191,0.4)!important;;}
-.res .res-commentBoxes .comment .comment .comment .comment .comment .comment .comment .comment {background-color: rgba(204,205,191,0.4)!important;;}
-.res .res-commentBoxes .comment .comment .comment .comment .comment .comment .comment .comment .comment {background-color: rgba(204,205,191,0.4)!important;;}
-.res .res-commentBoxes .comment .comment .comment .comment .comment .comment .comment .comment .comment .comment{background-color: rgba(204,205,191,0.4)!important;;}
-.res .res-commentBoxes .comment .comment .comment .comment .comment .comment .comment .comment .comment .comment .comment {background-color: rgba(204,205,191,0.4)!important;;}
-.res .res-commentBoxes .comment .comment .comment .comment .comment .comment .comment .comment .comment .comment .comment  .comment {background-color: rgba(204,205,191,0.4)!important;;}
+.res .res-commentBoxes .comment,
+.res .res-commentBoxes .comment .comment,
+.res .res-commentBoxes .comment .comment .comment,
+.res .res-commentBoxes .comment .comment .comment .comment,
+.res .res-commentBoxes .comment .comment .comment .comment .comment,
+.res .res-commentBoxes .comment .comment .comment .comment .comment .comment,
+.res .res-commentBoxes .comment .comment .comment .comment .comment .comment .comment,
+.res .res-commentBoxes .comment .comment .comment .comment .comment .comment .comment .comment,
+.res .res-commentBoxes .comment .comment .comment .comment .comment .comment .comment .comment .comment,
+.res .res-commentBoxes .comment .comment .comment .comment .comment .comment .comment .comment .comment .comment,
+.res .res-commentBoxes .comment .comment .comment .comment .comment .comment .comment .comment .comment .comment .comment,
+.res .res-commentBoxes .comment .comment .comment .comment .comment .comment .comment .comment .comment .comment .comment .comment {background-color: rgba(204,205,191,0.4)!important;box-shadow: inset 0px 0px #D9DDE2!important;margin: 0px!important}
 
-div.sitetable div.comment {background-color: rgba(204,205,191,0.4)!important;}
-div.sitetable div.comment .comment {background-color: rgba(204,205,191,0.4)!important;}
-div.sitetable div.comment .comment .comment {background-color: rgba(204,205,191,0.4)!important;}
-div.sitetable div.comment .comment .comment .comment {background-color: rgba(204,205,191,0.4)!important;;}
-div.sitetable div.comment .comment .comment .comment .comment {background-color: rgba(204,205,191,0.4)!important;}
-div.sitetable div.comment .comment .comment .comment .comment .comment {background-color: rgba(204,205,191,0.4)!important;;}
-div.sitetable div.comment .comment .comment .comment .comment .comment .comment {background-color: rgba(204,205,191,0.4)!important;}
-div.sitetable div.comment .comment .comment .comment .comment .comment .comment .comment {background-color: rgba(204,205,191,0.4)!important;;}
-div.sitetable div.comment .comment .comment .comment .comment .comment .comment .comment .comment {background-color: rgba(204,205,191,0.4)!important;;}
-div.sitetable div.comment .comment .comment .comment .comment .comment .comment .comment .comment .comment {background-color: rgba(204,205,191,0.4)!important;;}
-div.sitetable div.comment .comment .comment .comment .comment .comment .comment .comment .comment .comment .comment{background-color: rgba(204,205,191,0.4)!important;;}
-div.sitetable div.comment .comment .comment .comment .comment .comment .comment .comment .comment .comment .comment .comment {background-color: rgba(204,205,191,0.4)!important;;}
-div.sitetable div.comment .comment .comment .comment .comment .comment .comment .comment .comment .comment .comment .comment  .comment {background-color: rgba(204,205,191,0.4)!important;;}
+div.sitetable div.comment,
+div.sitetable div.comment .comment,
+div.sitetable div.comment .comment .comment,
+div.sitetable div.comment .comment .comment .comment,
+div.sitetable div.comment .comment .comment .comment .comment,
+div.sitetable div.comment .comment .comment .comment .comment .comment,
+div.sitetable div.comment .comment .comment .comment .comment .comment .comment,
+div.sitetable div.comment .comment .comment .comment .comment .comment .comment .comment,
+div.sitetable div.comment .comment .comment .comment .comment .comment .comment .comment .comment,
+div.sitetable div.comment .comment .comment .comment .comment .comment .comment .comment .comment .comment,
+div.sitetable div.comment .comment .comment .comment .comment .comment .comment .comment .comment .comment .comment,
+div.sitetable div.comment .comment .comment .comment .comment .comment .comment .comment .comment .comment .comment .comment,
+div.sitetable div.comment .comment .comment .comment .comment .comment .comment .comment .comment .comment .comment .comment .comment {background-color: rgba(204,205,191,0.4)!important;;}
 
 
 /* -- END of Comments -- */
@@ -774,42 +774,42 @@ div.subreddit-rules-page{
     box-shadow: none;
 }
 
-    .flair:hover {
-        overflow: visible
-    }
+.flair:hover {
+    overflow: visible
+}
 
-    .flair[title]:after {
-        font-size: 10px;
-        content: attr(title);
-        position: absolute;
-        color: #F4FAFF;
-        font-family: Calibri,sans-serif;
-        text-transform: uppercase;
-        top: 5px;
-        background: #fff;
-        box-shadow: 0 1px 10px #fff;
-        padding: 0 5px;
-        border-radius: 3px;
-        white-space: nowrap;
-        visibility: hidden;
-        pointer-events: none;
-        text-indent: 0;
-        border-bottom-left-radius: 18px;
-        border-top-left-radius: 18px;
-        transform: scale(0.8,0.4)
-    }
+.flair[title]:after {
+    font-size: 10px;
+    content: attr(title);
+    position: absolute;
+    color: #F4FAFF;
+    font-family: Calibri,sans-serif;
+    text-transform: uppercase;
+    top: 5px;
+    background: #fff;
+    box-shadow: 0 1px 10px #fff;
+    padding: 0 5px;
+    border-radius: 3px;
+    white-space: nowrap;
+    visibility: hidden;
+    pointer-events: none;
+    text-indent: 0;
+    border-bottom-left-radius: 18px;
+    border-top-left-radius: 18px;
+    transform: scale(0.8,0.4)
+}
 
-    .flair[title]:hover:before, .flair[title]:hover:after, .flair[title]:active:before, .flair[title]:active:after {
-        visibility: visible;
-        opacity: 1;
-        transform: scale(1);
-        background-color: blue;
-        border-bottom-left-radius: 3px;
-        border-top-left-radius: 3px;
-        box-shadow: 0 1px 0 rgba(46,46,44,0.35);
-        left: 45px;
-        transition: all .3s cubic-bezier(0.100,4.235,0.215,0.195) .05s,background-color .45s cubic-bezier(0.100,0.235,0.215,1.195) .1s,border-right-color .45s cubic-bezier(0.100,0.235,0.215,1.195) .1s
-    }
+.flair[title]:hover:before, .flair[title]:hover:after, .flair[title]:active:before, .flair[title]:active:after {
+    visibility: visible;
+    opacity: 1;
+    transform: scale(1);
+    background-color: blue;
+    border-bottom-left-radius: 3px;
+    border-top-left-radius: 3px;
+    box-shadow: 0 1px 0 rgba(46,46,44,0.35);
+    left: 45px;
+    transition: all .3s cubic-bezier(0.100,4.235,0.215,0.195) .05s,background-color .45s cubic-bezier(0.100,0.235,0.215,1.195) .1s,border-right-color .45s cubic-bezier(0.100,0.235,0.215,1.195) .1s
+}
 
 div.sidecontentbox .linkflairlabel {
     padding: 0;
@@ -894,11 +894,6 @@ div.thing div.entry.res-selected, div.thing div.entry.res-selected .md-container
     background-color: transparent!important;
 }
 
-.res .res-commentBoxes .comment .comment, .res .res-commentBoxes .comment .comment .comment, .res .res-commentBoxes .comment .comment .comment .comment, .res .res-commentBoxes .comment .comment .comment .comment .comment .comment, .res-commentBoxes .comment .comment .comment .comment .comment .comment .comment .comment, .res-commentBoxes .comment .comment .comment .comment .comment .comment .comment .comment .comment .comment {
-    background-color: rgba(204,205,191,0.4)!important;
-    box-shadow: inset 0px 0px #D9DDE2!important;
-    margin: 0px!important;
-}
 .res .res-commentBoxes .comment {
     background-color: transparent!important;
     border: 0!important;
