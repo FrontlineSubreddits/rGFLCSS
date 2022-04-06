@@ -571,8 +571,8 @@ div.side .titlebox, .infobar, #searchexpando {
 div.side .titlebox {
     background-image:url(%%Sidebar2000%%);
     background-color:transparent;
-    background-repeat: no-repeat;
-    height:2000px;
+    background-repeat: round;
+    height:2027px;
     box-shadow:none;
     border:none;
 }
