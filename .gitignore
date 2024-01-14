@@ -1,2 +1,4 @@
-# Map filess
+# Excludes
 *.map
+*.csv
+*.txt
