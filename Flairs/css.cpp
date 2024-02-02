@@ -14,7 +14,7 @@ int main(){
 
     if (in) {
         while (in >> doll){
-            out << ".flair-" << doll << " {width: 40px;height: 40px;background-position: 0 " << height << "px;}";
+            out << ".flair-" << doll << " {background-position: 0 " << height << "px;}";
             height -= 40;
         }
     }
