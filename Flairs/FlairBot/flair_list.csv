@@ -24,7 +24,7 @@
 025---MP40, MP40
 026---MP5, Gr MP5
 027---Skorpion, Skorpion
-029---StenMK2, Sten MkII
+029---StenMK2, STEN MkII
 031---Beretta-Model-38, M38
 032---MicroUZI, Micro Uzi
 033---m45, m45
@@ -56,14 +56,14 @@
 061---StG44, StG44
 062---G41, Gr G41
 063---G3, Gr G3
-064---G36, G36
+064---G36, Gr G36
 065---HK416, 416
-066---Type-56-1, Type 56-1
+066---Type-56-1, Type56-1
 068---L85A1, L85A1
-069---FAMAS, FAMAS
-070---FNC, FNC
+069---FAMAS, Fr FAMAS
+070---FNC, FF FNC
 071---Galil, Galil
-072---TAR-21, Tar 21
+072---TAR-21, Tar-21
 074---SIG-510, SIG-510
 075---M1918, M1918
 077---M2HB, M2HB
@@ -84,10 +84,10 @@
 093---IDW, IDW
 094---Type-64, Type64
 095---Hanyang-Type-88, Type88
-096---Grizzly-MkV, Grizzly MK V
+096---Grizzly-MkV, Grizzly
 097---M950A, M950A
 098---SPP1, SPP-1
-099---Mk23, Mk23
+099---Mk23, Gr Mk23
 100---P7, P7
 101---UMP9, UMP9
 103---UMP45, UMP45
@@ -96,7 +96,7 @@
 106---FNFAL, FN FAL
 107---F2000, FF F2000
 108---CZ805, CZ-805
-109---MG5, MG5
+109---MG5, Gr MG5
 110---FG42, FG42
 111---AAT52, AAT-52
 112---NEGEV, Negev
@@ -128,7 +128,7 @@ two-138---6P62, 6P62
 two-139---BrenTen, Bren Ten
 two-140---PSM, PSM
 two-141---USPCompact, Gr USPCompact
-two-142---FN57, FN 57
+two-142---FN57, Five-seven
 two-143---RO635, Ro635
 two-144---MT9, MT-9
 two-145---OTS44, OTS44
@@ -150,7 +150,7 @@ two-160---Saiga-12, Saiga-12
 two-161---97typeS, Type97S
 two-162---SPAS-12, SPAS-12
 two-166---CZ75, CZ75
-two-167---HK45, HK45
+two-167---HK45, Gr HK45
 two-168---Spitfire, Spitfire
 two-169---SCW, SCW
 two-170---ASh-12, ASh-12.7
@@ -161,10 +161,10 @@ two-174---Type81BoltActionRifle, Type81R
 two-175---ART556, ART556
 three-CollabElphelt, Elphelt
 three-CollabNoel, Noel
-three-DSR50, Gd DSR50
+three-DSR50, Gd DSR-50
 three-F1, F1
 three-KLIN, KLIN
-three-PzB39, PzB 39
+three-PzB39, PzB39
 three-TMP, TMP
 three-UMP40, UMP40
 three-Persica, Persica
@@ -191,7 +191,7 @@ three-Persica, Persica
 4-M12, M12
 4-MDR, MDR
 4-MP-443, MP-443
-4-MP7, MP7
+4-MP7, Gr MP7
 4-MurataHimeko, Murata Himeko
 4-NS2000, NS2000
 4-OTs-39, OTs-39
@@ -207,7 +207,7 @@ three-Persica, Persica
 4-T91, T91
 4-Theresa, Theresa
 4-Thunder, Thunder
-4-Type80, Type 80
+4-Type80, Type80
 4-USAS-12, USAS-12
 4-XM3, XM3
 4-XM8, XM8
@@ -289,10 +289,10 @@ three-Persica, Persica
 6-Mod3M14, M14 [Mod 3]
 6-Mod3M4SOPMODII, M4 SOPMOD II [Mod 3]
 6-Mod3SV98, SV-98 [Mod 3]
-6-Mod3StenMkII, Sten Mk II [Mod 3]
-6-Mod3StenMkIID, Cute Sten [Mod 3]
+6-Mod3StenMkII, STEN MkII [Mod 3]
+6-Mod3StenMkIID, STEN MkII [Mod 3] (Damaged)
 6-Mod3UMP45, UMP45 [Mod 3]
-6-GFHowaType64, Type64 
+6-GFHowaType64, 64 Shiki 
 6-GFPython, Python
 7-GFHS2000, HS2000
 7-GFKSVK, KSVK
@@ -302,6 +302,7 @@ three-Persica, Persica
 7-GFTEC9, TEC-9
 7-GFUKM2000, UKM-2000
 7-GFX95, X95
+7-ZZT64Costume, Type64
 7-GFM200, M200
 7-zGF43M, 43M
 7-zGFAK15, AK-15
@@ -358,7 +359,7 @@ three-Persica, Persica
 8-GFMG36, Gr MG36
 8-GFMP41, MP41
 8-GFMagal, Magal
-8-GFP30, P30
+8-GFP30, Gr P30
 8-GFPA-15, PA-15
 8-GFPM-9, PM-9
 8-GFQBU-88, QBU-88
@@ -393,8 +394,8 @@ three-Persica, Persica
 8-ZSFEliteHunt, Hunter Overcharge
 8-ZSFEliteOuru, Ouroboros Overcharge
 8-ZSFbeak, Beak
-8-ZZZCCostumeClear, Clear
-8-ZZZCCostumeFail, Fail
+8-ZZZCCostumeClear, El Clear
+8-ZZZCCostumeFail, El Fail
 8-ZZZCJacketUMP45, UMP45
 8-ZZZFairyCAnna, Anna Graem
 8-ZZZFairyCChloe, Chloe
@@ -434,7 +435,7 @@ three-Persica, Persica
 9-0GSGClaes, Claes
 9-0GSGHenrietta, Henrietta
 9-0GSGRico, Rico
-9-0GSGTriela,Triela
+9-0GSGTriela, Triela
 9-1DivDima, Dima
 9-1DivKalina, Kalina
 9-1Div416, Fang
@@ -459,33 +460,33 @@ three-Persica, Persica
 9-3Welrodmod, Welrod Mk II [Mod 3]
 9-3XM3mod, XM3 [Mod 3]
 9-4K5XmasTemp, K5
-c1-AnniversaryDSR50, DSR-50
+c1-AnniversaryDSR50, Gd DSR-50
 c1-AnniversaryGrizzly, Grizzly
-c1-AnniversaryHK416, HK416
+c1-AnniversaryHK416, 416
 c1-AnniversaryIDW, IDW
-c1-CNYDSR50, DSR-50
-c1-CNYT95, Type 95
-c1-Child5-7, 5-7
-c1-HalloweenSAT8, SAT8
+c1-CNYDSR50, Gd DSR-50
+c1-CNYT95, Type95
+c1-Child5-7, Five-seven
+c1-HalloweenSAT8, S.A.T.8
 c1-HalloweenWA2k, WA2000
-c1-HalloweenWelrod, Welrod MkII
+c1-HalloweenWelrod, Welrod Mk II
 c1-MaidNTW, NTW-20
-c1-NewYearHowaT64, Howa Type 64
+c1-NewYearHowaT64, 64 Shiki
 c1-PrinceTommy, Tommy
-c1-SummerG41, G41
+c1-SummerG41, Gr G41
 c1-SummerSuomi, Suomi
 c1-WeddingLee, Lee Enfield
 c1-WeddingVector, Vector
 c1-XmasPx4Storm, Px4 Storm
 c1-XmasSuomi, Suomi
-c1-YukataG36C, G36C
+c1-YukataG36C, Gr G36c
 c1-ZZDefault, Default
 c1-ZZGandK, GnK
 c1-ZZTrueCore, True Core
-c1-XmasRFB, RFB
+c1-XmasRFB, Am RFB
 c2-AnnivCalico, M950A
 c2-AnnivM1918, M1918
-c2-AnnivMosin, Mosin Nagant
+c2-AnnivMosin, Mosin-Nagant
 c2-AnnivSR3MP, SR-3MP
 c2-AnnivSkorp, Skorpion
 c2-AnnivSpring, Springfield
@@ -496,46 +497,46 @@ c2-BBGGSFElph, SF Elphelt
 c2-CNYM99, M99
 c2-CNYMP446, MP-446
 c2-CNYNZ75, NZ75
-c2-CNYT561, Type 56-1
-c2-CNYT59, Type 59
-c2-CNYT97, Type 97
-c2-Casual9A, 9A91
-c2-CasualG3, G3
+c2-CNYT561, Type56-1
+c2-CNYT59, Type59
+c2-CNYT97, Type97
+c2-Casual9A, 9A-91
+c2-CasualG3, Gr G3
 c2-CasualMG3, MG3
-c2-CasualSAW, M249 SAW
+c2-CasualSAW, FF M249SAW
 c2-CasualTar, TAR-21
-c2-ChildG36, G36
-c2-ChildGrizzly, Grizzly MkV
+c2-ChildG36, Gr G36
+c2-ChildGrizzly, Grizzly
 c2-ChildLee, Lee Enfield
 c2-ChildMP40, MP40
 c2-ChildNegev, Negev
 c2-GGZBronya, Bronya
 c2-GGZKiana, Kiana
 c2-GGZSeele, Seele
-c2-HalloFNC, FNC
+c2-HalloFNC, FF FNC
 c2-HalloIWS, IWS 2000
 c2-HalloP7, P7
 c2-HalloSASS, Super SASS
 c2-HalloSpitfire, Spitfire
-c2-HalloT79, Type 79
+c2-HalloT79, Type79
 c2-PrinceAEK, AEK-999
 c2-PrinceCont, Contender
-c2-PrinceG36, G36
-c2-PrinceMG5, MG5
+c2-PrinceG36, Gr G36
+c2-PrinceMG5, Gr MG5
 c2-PrincePKP, PKP
-c2-PrincePzB, PzB 39
+c2-PrincePzB, PzB39
 c2-RankAk47, AK-47
 c2-School6P, 6P62
 c2-SchoolAR15, ST AR-15
 c2-SchoolCalico, M950A
-c2-SchoolMG4, MG4
-c2-Summer57, 5-7
-c2-SummerG28, G28
+c2-SchoolMG4, Gr MG4
+c2-Summer57, Five-seven
+c2-SummerG28, Gr G28
 c2-SummerGarand, M1 Garand
 c2-SummerM37, M37
 c2-SummerNTW, NTW-20
 c2-SummerSpring, Springfield
-c2-SummerT95, Type 95
+c2-SummerT95, Type95
 c2-SummerWA, WA2000
 c2-ValPTRD, PTRD
 c2-ValUMP45, UMP45
@@ -545,38 +546,38 @@ c2-WeddingFAL, FAL
 c2-WeddingP7, P7
 c2-WeddingPK, PK
 c2-WeddingPPsh, PPSh-41
-c2-WeddingSten, Sten MkII
+c2-WeddingSten, STEN MkII
 c2-WeddingTokarev, Tokarev
 c2-XmasAmeli, Ameli
 c2-XmasCZ75, CZ75
-c2-XmasG11, G11
+c2-XmasG11, Gr G11
 c2-XmasM1918, M1918
 c2-XmasOTs44, OTs-44
 c2-XmasZas, Zas M21
 c2-YukataKLIN, KLIN
-c2-YukataMP5, MP5
+c2-YukataMP5, Gr MP5
 c2-YukataOTs14, OTs-14
 c2-YukataPKP, PKP
-c3-AnnivColt, Colt Revolver
-c3-AnnivEVO3, EVO3
+c3-AnnivColt, SAA
+c3-AnnivEVO3, EVO 3
 c3-AnnivUMP45, UMP45
 c3-AnnivUMP9, UMP9
-c3-AnnivWelrod, Welrod MkII
+c3-AnnivWelrod, Welrod Mk II
 c3-AnnivZas, ZAS M21
 c3-CNYART, ART556
 c3-CNYHanyang, Type88
 c3-CNYJS05, JS05
 c3-CNYLWMMG, LWMMG
 c3-CNYM590, M590
-c3-CNYMk23, Mk23
-c3-CNYSAT8, SAT8
+c3-CNYMk23, Gr Mk23
+c3-CNYSAT8, S.A.T.8
 c3-CNYType81, Type 81 Carbine
 c3-CasualM99, M99
 c3-CasualNZ75, NZ75
 c3-CasualRMB93, RMB-93
 c3-CasualSPP1, SPP-1
-c3-CasualShorty, Super Shorty
-c3-ChildCMS, CMS
+c3-CasualShorty, Super-Shorty
+c3-ChildCMS, C-MS
 c3-ChildCarcanoGrape, Carcano M91/38
 c3-ChildCarcanoPink, Carcano M1891
 c3-ChildPP19, PP-19
@@ -584,62 +585,62 @@ c3-ChildThunder, Thunder
 c3-EastK2, K2
 c3-EastK5, K5
 c3-EastKLIN, KLIN
-c3-EastType63, Type 63
+c3-EastType63, Type63
 c3-HalloBren, Bren
 c3-HalloF1, F1
-c3-HalloFAMAS, FAMAS
+c3-HalloFAMAS, Fr FAMAS
 c3-HalloMDR, MDR
 c3-HalloTAC50, TAC-50
-c3-IdolHK21, HK21
+c3-IdolHK21, HMG21
 c3-IdolHK45, Gr HK45
 c3-IdolJS05, JS05
-c3-IdolNagant, Nagant Revolver
+c3-IdolNagant, M1895
 c3-IdolPM06, PM-06
 c3-IdolUSAS, USAS-12
 c3-MaidCalico, M950A
 c3-MaidCont, Contender
-c3-MaidG28, G28
+c3-MaidG28, Gr G28
 c3-MaidGepard, Gepard M1
 c3-NYASVal, AS Val
 c3-NYCarcanoGrape, Carcano M91/38
 c3-NYCarcanoPink, Carcano M1891
 c3-NYM1014, M1014
-c3-NYRFB, RFB
-c3-NYType100, Type 100
-c3-NYType62, Type 62
-c3-RockG11, G11
+c3-NYRFB, Am RFB
+c3-NYType100, 100 Shiki
+c3-NYType62, 62 Shiki
+c3-RockG11, Gr G11
 c3-RockM1887, M1887
 c3-RockM1897, M1897
-c3-RockMG5, MG5
-c3-RockT80, Type 80
+c3-RockMG5, Gr MG5
+c3-RockT80, Type80
 c3-SummerAA12, AA-12
 c3-SummerAk12, AK-12
 c3-SummerAmeli, Ameli
 c3-SummerAn94, AN-94
 c3-SummerFAL, FAL
-c3-SummerG36, G36
-c3-SummerMP7, MP7
+c3-SummerG36, Gr G36
+c3-SummerMP7, Gr MP7
 c3-SummerP38, P38
 c3-SummerSPAS, SPAS-12
-c3-Wedding57, 5-7
-c3-WeddingG36, G36
-c3-WeddingMP5, MP5
+c3-Wedding57, Five-seven
+c3-WeddingG36, Gr G36
+c3-WeddingMP5, Gr MP5
 c3-WeddingSV98, SV-98
-c3-WeddingType561, Type 56-1
-c3-Xmas57, 5-7
+c3-WeddingType561, Type56-1
+c3-Xmas57, Five-seven
 c3-XmasART, ART556
 c3-XmasFP6, FP-6
-c3-XmasG36, G36
+c3-XmasG36, Gr G36
 c3-XmasP90, P90
 c3-XmasTMP, TMP
 c4-AnnivAk12, AK-12
 c4-AnnivAn94, AN-94
-c4-AnnivG28, G28
+c4-AnnivG28, Gr G28
 c4-AnnivK2, K2
 c4-AnnivK5, K5
 c4-AnnivM99, M99
 c4-AnnivMDR, MDR
-c4-AnnivT79, Type 79
+c4-AnnivT79, Type79
 c4-AnnivThunder, Thunder
 c4-ArtbookSPAS, SPAS-12
 c4-ArtbookSV, SV-98
@@ -647,29 +648,29 @@ c4-CNYAk47U, AK-47U
 c4-CNYCZ52, CZ52
 c4-CNYCZ75, CZ75
 c4-CNYIWS, IWS 2000
-c4-CNYMP5, MP5
+c4-CNYMP5, Gr MP5
 c4-CNYOTs14, OTs-14
-c4-CNYT88, Type 88
-c4-CasualGrizzly, Grizzly MkV
+c4-CNYT88, QJY-88
+c4-CasualGrizzly, Grizzly
 c4-CasualLee, Lee Enfield
 c4-CasualM1918, M1918
 c4-CasualM1919, M1919A4
 c4-CasualMP446, MP-446
-c4-CasualUZI, Micro UZI
-c4-ChildHK416, HK416
+c4-CasualUZI, Micro Uzi
+c4-ChildHK416, 416
 c4-ChildK11, K11
 c4-ChildKSVK, KSVK
 c4-ChildOTs44, OTs-44
 c4-ChildUMP45, UMP45
 c4-ChildUMP9, UMP9
 c4-ComicGSH, GSh-18
-c4-HalloG11, G11
+c4-HalloG11, Gr G11
 c4-HalloM1919, M1919A4
-c4-HalloMP5, MP5
+c4-HalloMP5, Gr MP5
 c4-HalloMak, Makarov
-c4-HalloMk23, Mk23
+c4-HalloMk23, Gr Mk23
 c4-HalloSpring, Springfield
-c4-HalloT64, Type 64
+c4-HalloT64, Type64
 c4-HalloVivi, Vector
 c4-Hallom45, m45
 c4-LabyCont, Contender
@@ -677,73 +678,73 @@ c4-LabyIDW, IDW
 c4-LabyNegev, Negev
 c4-LabySPAS, SPAS-12
 c4-LabyTokarev, Tokarev
-c4-SummerCMS, CMS
+c4-SummerCMS, C-MS
 c4-SummerLewis, Lewis
 c4-SummerR93, R93
 c4-SummerSerdyukov, Serdyukov
-c4-SummerT88, Type 88
-c4-SummerType4, Type 4
+c4-SummerT88, QJY-88
+c4-SummerType4, 4 Shiki
 c4-SummerZ62, Z-62
-c4-ValAlma, Alma
-c4-ValDana, Dana
-c4-ValDorothy, Dorothy
-c4-ValJill, Jill
-c4-ValSei, Sei
-c4-ValStella, Stella
-c4-WeddingG36C, G36C
+c4-ValAlma, Alma Armas
+c4-ValDana, Dana Zane
+c4-ValDorothy, Dorothy Haze
+c4-ValJill, Jill Stingray
+c4-ValSei, Sei Asagiri
+c4-ValStella, Stella Hoshii
+c4-WeddingG36C, Gr G36c
 c4-WeddingGepard, Gepard M1
-c4-WeddingMk23, Mk23
+c4-WeddingMk23, Gr Mk23
 c4-WeddingPKP, PKP
 c4-WeddingSuomi, Suomi
 c4-WeddingT5k, T-5000
-c4-XmasColt, Colt Revolver
+c4-XmasColt, SAA
 c4-XmasFAL, FAL
 c4-XmasGriffin, Griffon
 c4-XmasM14, M14
 c4-XmasM21, M21
-c4-XmasMG5, MG5
+c4-XmasMG5, Gr MG5
 c4-XmasNTW, NTW
 c4-XmasSF, SF
 c4-XmasSVD, SVD
 c4-XmasSpring, Springfield
 c4-XmasWA, WA2000
 c4-YukataADS, ADS
-c4-YukataG36, G36
+c4-YukataG36, Gr G36
 c4-YukataOTs12, OTs-12
-c4-YukataSAT8, SAT8
-c4-YukataSAW, M249 SAW
+c4-YukataSAT8, S.A.T.8
+c4-YukataSAW, FF M249SAW
 c4-ZFurM500, M500
 c4-ZFurM590, M590
-c4-ZFurMk23, Mk23
+c4-ZFurMk23, Gr Mk23
 c4-ZFurPA15, PA-15
 c4-ZFurSR3MP, SR-3MP
-c4-ZFurT95, Type 95
-c4-ZFurT97, Type 97
+c4-ZFurT95, Type95
+c4-ZFurT97, Type97
 c4-ZFurTMP, TMP
 c4-ZGFINSAS, INSAS
 c4-ZGFsix12, Six12
-c4-ZHalloG36C, G36C
+c4-ZHalloG36C, Gr G36c
 c4-ZHalloKSVK, KSVK
 c4-ZHalloM870, M870
 c4-ZHalloMG3, MG3
 c4-ZHalloModelL, Model L
-c4-ZHalloPSG1, PSG-1
-c4-ZHalloQBU88, QBU88
-c4-ZHalloT97s, Type 97S
+c4-ZHalloPSG1, Gr PSG-1
+c4-ZHalloQBU88, QBU-88
+c4-ZHalloT97s, Type97S
 c4-Zz1CNYDP-12, DP-12
 c4-Zz1CNYEM2, EM2
-c4-Zz1CNYJS9, JS9
-c4-Zz1CNYm1895mg, M1895MG
+c4-Zz1CNYJS9, JS 9
+c4-Zz1CNYm1895mg, M1895 CB
 c4-Zz1CNYmg34, MG34
-c4-Zz1CNYmg36, MG36
+c4-Zz1CNYmg36, Gr MG36
 c4-Zz1CNYpa15, PA-15
 c4-Zz1CNYpkp, PKP
 c4-Zz1CNYspp1, SPP-1
 c4-Zz1CNYt91, T91
-c4-Zz1NewYear4type, Type 4
+c4-Zz1NewYear4type, 4 Shiki
 c4-Zz1NewYear9a91, 9A91
 c4-Zz1NewYearfalcon, Falcon
-c4-Zz1NewYearg11, G11
+c4-Zz1NewYearg11, Gr G11
 c4-Zz1NewYearm1a1, M1A1
 c4-Zz1NewYearmg3, MG3
 c4-Zz1NewYearsr3mp, SR-3MP
@@ -752,33 +753,33 @@ c4-Zz1RacingP22, P22
 c4-Zz1RacingPPK, PPK
 c4-Zz1RacingSaiga12, Saiga-12
 c4-Zz1RacingUKM2000, UKM-2000
-c4-Zz1WeddingFNC, FNC
+c4-Zz1WeddingFNC, FF FNC
 c4-Zz1WeddingKar98k, Kar98k
 c4-Zz1WeddingStechkin, Stechkin
-c4-Zz1Weddinggrizzly, Grizzly MK V
+c4-Zz1Weddinggrizzly, Grizzly
 c4-Zz1Weddingm1014, M1014
 c4-Zz1Weddingm950a, M950A
 c4-Zz1Weddingmakarov, Makarov
-c4-Zz1Weddingrmb93, RMB93
+c4-Zz1Weddingrmb93, RMB-93
 c4-Zz1WeddingzasM21, Zas M21
 c4-Zz1Xmascaws, CAWS
 c4-Zz1Xmasgepardm1, Gepard M1
-c4-Zz1Xmashk21, HK21
-c4-Zz1Xmashoneybadger, Honeybadger
+c4-Zz1Xmashk21, HMG21
+c4-Zz1Xmashoneybadger, Honey Badger
 c4-Zz1Xmaslewis, Lewis
 c4-Zz1Xmaslwmmg, LWMMG
-c4-Zz1Xmastype100, Type 100
+c4-Zz1Xmastype100, 100 Shiki
 c5-PJA91, A-91
 c5-PJAA12, AA-12
 c5-PJNS2000, NS2000
-c5-PJP30, P30
+c5-PJP30, Gr P30
 c5-PJPA15, PA-15
 c5-PJPP1901, PP-19-01
 c5-CarnAR15, ST AR-15
-c5-CarnG11, G11
-c5-CarnHK416, HK416
+c5-CarnG11, Gr G11
+c5-CarnHK416, 416
 c5-CarnM16, M16A1
-c5-CarnM4Sop, SOPMOD II
+c5-CarnM4Sop, M4 SOPMOD II
 c5-CarnM4A1, M4A1
 c5-CarnRO635, RO635
 c5-CarnUMP40, UMP40
@@ -789,7 +790,7 @@ c5-AnniKSVK, KSVK
 c5-AnniM16, M16A1
 c5-AnniM1911, M1911
 c5-AnniM200, M200
-c5-AnniM4Sop, SOPMOD II
+c5-AnniM4Sop, M4 SOPMOD II
 c5-AnniM4A1, M4A1
 c5-AnniGroza, OTs-14
 c5-AnniQBU88, QBU-88
@@ -798,7 +799,7 @@ c5-AnniSaiga12, Saiga-12
 c5-AnniZasM76, Zas M76
 c5-LoliAlfa, AKAlfa
 c5-LoliEvo3, EVO 3
-c5-LoliFAMAS, FAMAS
+c5-LoliFAMAS, Fr FAMAS
 c5-LoliHP35, HP-35
 c5-LoliT5000, T-5000
 c5-LoliTMP, TMP
@@ -807,9 +808,9 @@ c5-SummerAstra, Astra
 c5-SummerAK5, AK-5
 c5-SummerFN49, FN-49
 c5-SummerJS9, JS 9
-c5-SummerKAC, KAC-PDW
+c5-SummerKAC, K-PDW
 c5-SummerPP19, PP-19
-c5-SummerSL8, SL8
+c5-SummerSL8, Gr SL8
 c5-SummerZB26, ZB-26
 c5-GSGAngelica, Angelica
 c5-GSGClaes, Claes
@@ -818,27 +819,27 @@ c5-GSGRico, Rico
 c5-GSGTriela, Triela
 c5-MedievalAUG, AUG
 c5-MedievalM1897, M1897
-c5-MedievalNugget, Mosin Nagant
+c5-MedievalNugget, Mosin-Nagant
 c5-MedievalMk48, Mk48
 c5-MedievalNTW, NTW-20
 c5-KimonoDP12, DP-12
 c5-KimonoIDW, IDW
-c5-KimonoMG36, MG36
+c5-KimonoMG36, Gr MG36
 c5-KimonoMG5, MG5
 c5-KimonoR93, R93
 c5-KimonoTabuk, Tabuk
-c5-KimonoType100, Type 100
+c5-KimonoType100, 100 Shiki
 c5-Kimonowz29, wz.29
 c5-DivisionAgent4, Agent 416
 c5-DivisionAgentV, Agent Vector
-c5-Division416, HK416
+c5-Division416, 416
 c5-DivisionVector, Vector
 s1-AM4, M4A1
 s1-AAR15, ST AR-15
-s1-ASOP, SOPMOD II
+s1-ASOP, M4 SOPMOD II
 s1-AM16, M16A1
 s1-AGetntaine, Gentaine
-s1-AKalina,Kalina
+s1-AKalina, Kalina
 10-A-545, A-545
 10-AK-74M, AK74M
 10-AK-Alfa, AK-Alfa
@@ -912,11 +913,11 @@ s1-AKalina,Kalina
 11-06--MSBS, MSBS
 11-07---P10C, P10C
 11-08---P290, P290
-11-09---Saiga_308, Saiga 308
+11-09---Saiga308, Saiga 308
 11-10---UTS-15, UTS-15
 11-11---VP9, VP9
 11-12---AR-18, AR-18
-11-13---Colt_Walker, Colt Walker
+11-13---ColtWalker, Colt Walker
 11-14---Erma, Erma
 11-15---Jatimatic, Jatimatic
 11-16---LAMG, LAMG
@@ -932,16 +933,16 @@ s1-AKalina,Kalina
 11-26---VRB, VRB
 11-27---Place23-M4A1, r/place2023
 11-28---Place23-UMP45, r/place2023
-11-29---100_Shiki, 100 Shiki [Mod 3]
+11-29---100Shiki, 100 Shiki [Mod 3]
 11-30---AK-15, AK-15 [Mod 3]
 11-31---AN-94, AN-94 [Mod 3]
 11-32---DP-12, DP-12 [Mod 3]
 11-33---Galil, Galil [Mod 3]
-11-34---Gepard_M1, Gepard M1 [Mod 3]
-11-35---Gr_G36c, Gr G36c [Mod 3]
+11-34---GepardM1, Gepard M1 [Mod 3]
+11-35---GrG36c, Gr G36c [Mod 3]
 11-36---K5, K5 [Mod 3]
 11-37---Kar98K, Kar98K [Mod 3]
-11-38---Lee_Enfield, Lee Enfield [Mod 3]
+11-38---LeeEnfield, Lee Enfield [Mod 3]
 11-39---M1919A4, M1919A4 [Mod 3]
 11-40---Makarov, Makarov [Mod 3]
 11-41---MG3, MG3 [Mod 3]
@@ -979,7 +980,7 @@ s1-AKalina,Kalina
 12-12---Alina, Alina
 12-13---AlinaElite, Alina Elite
 12-14---AgentElite, Agent Elite
-12-15---Aegis_SWAP, Aegis_SWAP
+12-15---AegisSWAP, Aegis_SWAP
 12-16---AlchemistElite, Alchemist Elite
 12-17---Alina-Mosasaur, Alina Mosasaur
 12-18---Alina-MosasaurElite, Alina Mosasaur Elite
@@ -991,7 +992,7 @@ s1-AKalina,Kalina
 12-24---Destroyer-Reindeer, Destroyer Reindeer
 12-25---Destroyer-ReinderElite, Destroyer Reindeer Elite
 12-26---CorpseBride, Zombie Bride
-12-27---Dragoon_SWAP, Dragoon_SWAP
+12-27---DragoonSWAP, Dragoon_SWAP
 12-28---DreamerElite, Dreamer Elite
 12-29---Dreamer-Sentinel, Dreamer Sentinel
 12-30---Dreamer-SentinelElite, Dreamer Sentinel Elite
@@ -1001,26 +1002,86 @@ s1-AKalina,Kalina
 12-34---GagerElite, Gager Elite
 12-35---GingerbreadGuard, Gingerbread Guard
 12-36---GoliathFactory, Goliath Factory
-12-37---Guard_SWAP, Guard_SWAP
+12-37---GuardSWAP, Guard_SWAP
 12-38---HunterElite, Hunter Elite
 12-39---Hunter-Moth, Hunter Moth
 12-40---Hunter-MothElite, Hunter Moth Elite
 12-41---IntruderElite, Intruder Elite
 12-42---Intruder-Sorceress, Intruder Sorceress
 12-43---Intruder-SorceressElite, Intruder Sorceress Elite
-12-44---Jeager_SWAP, Jeager_SWAP
+12-44---JeagerSWAP, Jeager_SWAP
 12-45---JudgeElite, Judge Elite
 12-46---OuroElite, Ouroboros Elite
-12-47---Prowler_SWAP, Prowler_SWAP
-12-48---Ripper_SWAP, Ripper_SWAP
+12-47---ProwlerSWAP, Prowler_SWAP
+12-48---RipperSWAP, Ripper_SWAP
 12-49---ScarecrowElite, Scarecrow Elite
 12-50---Scarecrow-Abyss, Scarecrow Abyss
 12-51---Scarecrow-AbyssElite, Scarecrow Abyss Elite
 12-52---JawsParadise, Jaws Paradise
-12-53---Striker_SWAP, Striker_SWAP
-12-54---Vespid_SWAP, Vespid_SWAP
+12-53---StrikerSWAP, Striker_SWAP
+12-54---VespidSWAP, Vespid_SWAP
 12-55---Tareus, Tareus
 12-56---TareusElite, Tareus Elite
 12-57---Narciss, Narciss
 12-58---NarcissElite, Narciss Elite
 12-59---DEFY, DEFY
+13-00---Jashin-Chan, Jashin-Chan
+13-01---Medusa, Medusa
+13-02---Minos, Minos
+13-03---Pekora, Pekora
+13-04---HanazonoYurine, Hanazono Yurine
+13-05---Agent416, Agent 416
+13-06---AgentVector, Agent Vector
+13-07---Angelica, Angelica
+13-08---Claes, Claes
+13-09---Henrietta, Henrietta
+13-10---Rico, Rico
+13-11---Triela, Triela
+13-12---Ai-Mizuno, Ai Mizuno
+13-13---Junko-Konno, Junko Konno
+13-14---Lily-Hoshikawa, Lily Hoshikawa
+13-15---Saki-Nikaidou, Saki Nikaidou
+13-16---Sakura-Minamoto, Sakura Minamoto
+13-17---Tae-Yamada, Tae Yamada
+13-18---Yugiri, Yugiri
+13-19---Kouji, Kouji
+13-20---Chicken, Drive-In Chicken
+13-21---STAR-15, ST AR-15
+13-22---GeneralLiu, General Liu
+13-23---GdDSR-50, Gd DSR-50
+13-24---Lewis, Lewis
+13-25---C-93, C-93
+13-26---MK3A1, MK3A1
+13-27---ColtWalker, Colt Walker
+13-28---SCAR-L, SCAR-L
+13-29---QBZ-191, QBZ-191
+13-30---Saiga-12, Saiga-12
+13-31---M1895, M1895
+13-32---SPAS-15, SPAS-15
+13-33---M327, M327
+13-34---AK-12Jacket, AK-12
+13-35---GrG11Jacket, Gr G11
+13-36---QBU-88-LAWSON, QBU-88
+13-37---QBZ-191-Moondrop, QBZ-191
+13-38---RO635-Carnival, RO635
+13-39---Z-62-Chess, Z-62
+13-40---OBR-Chess, OBR
+13-41---M1897-Chess, M1897
+13-42---MG42-Chess, MG42
+13-43---M950A, M950A
+13-44---HK433, HK433
+13-45---HWCF05, CF05
+13-46---HWGeneralLiu, General Liu
+13-47---HWKord, Kord
+13-48---HWM21, M21
+13-49---HWM82, M82
+13-50---HWTokarev, Tokarev
+13-51---HWType97, Type97
+13-52---DVGrG36c, Gr G36c
+13-53---DVSAF, SAF
+13-54---DVSL8, SL8
+13-55---DVSuper-Shorty, Super-Shorty
+13-56---DVTEC-9, TEC-9
+13-57---DVVHS, VHS
+13-58---XM-4Shiki, 4 Shiki
+13-59---XM-HS2000, HS2000
