@@ -309,7 +309,7 @@ three-Persica, Persica
 7-zGFC-93, C-93
 7-zGFCAR, CAR
 7-zGFCAWS, CAWS
-7-zGFCF05, CF05
+7-zGFCF05, CF-05
 7-zGFCR-21, CR-21
 7-zGFDP-12, DP-12
 7-zGFHSM10, HSM10
@@ -805,7 +805,7 @@ c5-LoliT5000, T-5000
 c5-LoliTMP, TMP
 c5-LoliX95, X95
 c5-SummerAstra, Astra
-c5-SummerAK5, AK-5
+c5-SummerAK5, AK 5
 c5-SummerFN49, FN-49
 c5-SummerJS9, JS 9
 c5-SummerKAC, K-PDW
@@ -1069,8 +1069,8 @@ s1-AKalina, Kalina
 13-41---M1897-Chess, M1897
 13-42---MG42-Chess, MG42
 13-43---M950A, M950A
-13-44---HK433, HK433
-13-45---HWCF05, CF05
+13-44---HK433, 433
+13-45---HWCF05, CF-05
 13-46---HWGeneralLiu, General Liu
 13-47---HWKord, Kord
 13-48---HWM21, M21
@@ -1079,9 +1079,69 @@ s1-AKalina, Kalina
 13-51---HWType97, Type97
 13-52---DVGrG36c, Gr G36c
 13-53---DVSAF, SAF
-13-54---DVSL8, SL8
+13-54---DVSL8, Gr SL8
 13-55---DVSuper-Shorty, Super-Shorty
 13-56---DVTEC-9, TEC-9
 13-57---DVVHS, VHS
 13-58---XM-4Shiki, 4 Shiki
 13-59---XM-HS2000, HS2000
+14-00---XM-M1895, M1895
+14-01---XM-PM1910, PM1910
+14-02---XM-R5, R5
+14-03---XM-S-ACR, S-ACR
+14-04---XM-Type88, Type88
+14-05---XM-VSK-94, VSK-94
+14-06---433, 433
+14-07---QBU-191, QBU-191
+14-08---Boys, Boys AT Rifle
+14-09---NY-ACR, ACR
+14-10---NY-EVO3, EVO 3
+14-11---NY-M950A, M950A
+14-12---NY-OBR, OBR
+14-13---NY-Saiga-12, Saiga-12
+14-14---NY-Shipka, Shipka
+14-15---NY-UKM-2000, UKM-2000
+14-16---NY-UMP45, UMP45
+14-17---CNY-AUGPara, Aug Para
+14-18---CNY-Defender, Defender
+14-19---CNY-KSVK, KSVK
+14-20---CNY-Lewis, Lewis
+14-21---CNY-QBU-88, QBU-88
+14-22---CNY-SVD, SVD
+14-23---CNY-Type56R, Type56R
+14-24---CNY-Type92, Type92
+14-25---WD-M37, M37
+14-26---WD-OTs-14, OTs-14
+14-27---WD-Type64, Type64
+14-28---WD-Type81R, Type81R
+14-29---WD-Type95, Type95
+14-30---WD-Webley, Webley
+14-31---WD-XM8, XM8
+14-32---WD-ZB-26, ZB-26
+14-33---DT-64-Shiki, 64 Shiki
+14-34---DT-EM-2, EM-2
+14-35---DT-Magal, Magal
+14-36---DT-Mondragon, Mondragon
+14-37---DT-P90, P90
+14-38---DT-Thompson, Thompson
+14-39---MR-AugPara, Aug Para
+14-40---MR-GeneralLiu, General Liu
+14-41---MR-GrG36, Gr G36
+14-42---MR-GrSL8, Gr SL8
+14-43---MR-M16A1, M16A1
+14-44---MR-M200, M200
+14-45---MR-M4SOPMOD, M4 SOPMOD II
+14-46---MR-M4A1, M4A1
+14-47---MR-RO635, RO635
+14-48---MR-STAR15, ST AR-15
+14-49---MR-VHS, VHS
+14-50---AN-CZ-805, CZ-805
+14-51---AN-C-93, C-93
+14-52---AN-FX-05, FX-05
+14-53---AN-M82A1, M82A1
+14-54---AN-PA-15, PA-15
+14-55---AN-PPSh-41, PPSh-41
+14-56---AN-Type97S, Type97S
+14-57---AN-VSK-94, VSK-94
+14-58---CD-AK5, AK 5
+14-59---CD-CF-05, CF-05
