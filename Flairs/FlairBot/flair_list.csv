@@ -1102,7 +1102,7 @@ s1-AKalina, Kalina
 14-14---NY-Shipka, Shipka
 14-15---NY-UKM-2000, UKM-2000
 14-16---NY-UMP45, UMP45
-14-17---CNY-AUGPara, Aug Para
+14-17---CNY-AUGPara, AUG Para
 14-18---CNY-Defender, Defender
 14-19---CNY-KSVK, KSVK
 14-20---CNY-Lewis, Lewis
@@ -1124,7 +1124,7 @@ s1-AKalina, Kalina
 14-36---DT-Mondragon, Mondragon
 14-37---DT-P90, P90
 14-38---DT-Thompson, Thompson
-14-39---MR-AugPara, Aug Para
+14-39---MR-AugPara, AUG Para
 14-40---MR-GeneralLiu, General Liu
 14-41---MR-GrG36, Gr G36
 14-42---MR-GrSL8, Gr SL8
@@ -1145,3 +1145,124 @@ s1-AKalina, Kalina
 14-57---AN-VSK-94, VSK-94
 14-58---CD-AK5, AK 5
 14-59---CD-CF-05, CF-05
+15-00---CD-LUSA, Lusa
+15-01---CD-M82, M82
+15-02---CD-PKP, PKP
+15-03---CD-RPK-203, RPK-203
+15-04---CD-S-ACR, S-ACR
+15-05---CD-Wz29, wz. 29
+15-06---BC-DP-12, DP-12
+15-07---BC-LTLX7000, LTLX 7000
+15-08---BC-PPD-40, PPD-40
+15-09---BC-PPK, PPK
+15-10---BC-Px4Storm, Px4 Storm
+15-11---BC-QSB-91, QSB-91
+15-12---BC-UKM-2000, UKM-2000
+15-13---BC-V-PM5, V-PM5
+15-14---JD-Jashin, Jashin-Chan
+15-15---JD-Medusa, Medusa
+15-16---JD-Minos, Minos
+15-17---JD-Pekora, Pekora
+15-18---JD-Yurine, Hanazono Yurine
+15-19---MB-416, 416
+15-20---MB-GrG11, Gr G11
+15-21---MB-UMP40, UMP40
+15-22---MB-UMP45, UMP45
+15-23---MB-UMP9, UMP9
+15-24---FR-9A-91, 9A-91
+15-25---FR-DeLisle, De Lisle
+15-26---FR-Mk12, Mk 12
+15-28---FR-OTs-44, OTs-44
+15-27---FR-PM-9, PM-9
+15-29---FR-Tabuk, Tabuk
+15-30---FR-Tokarev, Tokarev
+15-31---DA-AUGPara, AUG Para
+15-32---DA-GrSL8, Gr SL8
+15-33---DA-ModelL, Model L
+15-34---DA-Mondragon, Mondragon
+15-35---DA-RexZero1, Rex Zero 1
+15-36---DA-SP9, SP9
+15-37---HW-C-MS, C-MS
+15-38---HW-K-PDW, K-PDW
+15-39---HW-LWMMG, LWMMG
+15-40---HW-MP-443, MP-443
+15-41---HW-SVCh, SVCh
+15-42---HW-Type95, Type95
+15-43---MK-416, 416
+15-44---MK-Deagle, Desert Eagle
+15-45---MK-F1, F1
+15-46---MK-GrMG36, Gr MG36
+15-47---MK-SIGMCX, SIG MCX
+15-48---MK-Type88, Type88
+15-49---XM-89Shiki, 89 Shiki
+15-50---XM-CR-21, CR-21
+15-51---XM-Cx4Storm, Cx4 Storm
+15-52---XM-FNC, FN FNC
+15-53---XM-Python, Python
+15-54---XM-SAF, SAF
+15-55---XM-VP1915, VP1915
+15-56---NY-AR-57, AR-57
+15-57---NY-LTLX, LTLX 7000
+15-58---NY-Lusa, Lusa
+15-59---NY-M14, M14
+15-60---NY-UMP9, UMP9
+15-61---NY-Vector, Vector
+15-62---NY-V-PM5, V-PM5
+15-63---CNY-A-545, A-545
+15-64---CNY-FFFN-49, FF FN-49
+15-65---CNY-GrG36, Gr G36
+15-66---CNY-HS50, HS.50
+15-67---CNY-Kolibri, Kolibri
+15-68---CNY-MP7, MP7
+15-69---CNY-SP9, SP9
+15-70---CNY-Stechkin, Stechkin
+15-71---CNY-TKB-408, TKB-408
+15-72---WD-Falcon, Falcon
+15-73---WD-K5, K5
+15-74---WD-Lewis, Lewis
+15-75---WD-LWMMG, LWMMG
+15-76---WD-M1Garand, M1 Garand
+15-77---WD-P22, P22
+15-78---WD-T77, T77
+15-79---WD-Type79, Type79
+15-80---WD-Type97, Type97
+15-81---OL-C14, C14
+15-81---OL-C14, C14
+15-82---OL-CZ75, CZ75
+15-83---OL-FX-05, FX-05
+15-84---OL-RexZero1, Rex Zero 1
+15-85---AN-100Shiki, 100 Shiki
+15-86---AN-Defender, Defender
+15-87---AN-M1895, M1895
+15-88---AN-MP-443, MP-443
+15-89---AN-Rhino, Rhino
+15-90---AN-Type64, Type64
+15-91---AN-Type88, Type88
+15-92---AN-ZB-26, ZB-26
+15-93---CD-MG3, MG3
+15-94---CD-Px4, Px4 Storm
+15-95---CD-Tabuk, Tabuk
+15-96---CD-Type56R, Type56R
+15-97---CD-Type95, Type95
+15-98---CD-VSK-94, VSK-94
+15-99---BC-AK74M, AK74M
+15-100---BC-CF-05, CF-05
+15-101---BC-EVO3, EVO3
+15-102---BC-HS50, HS.50
+15-103---BC-IWS, IWS2000
+15-104---BC-M6ASW, M6 ASW
+15-105---BC-Savage, Model 99
+15-106---BC-Sterling, Sterling
+15-107---SP-ACR, ACR
+15-108---SP-GrG41, Gr G41
+15-109---SP-QBU-88, QBU-88
+15-110---SP-SCR, SCR
+15-111---SP-SIGMCX, SIG MCX
+15-112---SP-TS12, TS12
+15-113---SP-Type88, Type88
+15-114---ST-C14, C14
+15-115---ST-CAWS, CAWS
+15-116---ST-Nova, Nova
+15-117---ST-PA-15, PA-15
+15-118---ST-SAF, SAF
+15-119---ST-SR-2, SR-2
