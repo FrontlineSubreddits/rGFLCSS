@@ -108,7 +108,7 @@
 118---9A91, 9A-91
 119---OTs-14, OTs-14
 120---ARX160, ARX-160
-two-121---MK48, MK48
+two-121---MK48, Mk48
 two-122---G11, Gr G11
 two-123---P99, P99
 two-124---SuperSASS, Super SASS
@@ -129,7 +129,7 @@ two-139---BrenTen, Bren Ten
 two-140---PSM, PSM
 two-141---USPCompact, Gr USPCompact
 two-142---FN57, Five-seven
-two-143---RO635, Ro635
+two-143---RO635, RO635
 two-144---MT9, MT-9
 two-145---OTS44, OTS44
 two-146---G28, Gr G28
@@ -452,7 +452,7 @@ three-Persica, Persica
 9-3MG4mod, Gr MG4 [Mod 3]
 9-3PP19mod, PP-19 [Mod 3]
 9-3RMB93mod, RMB-93 [Mod 3]
-9-3ROmod, Ro635 [Mod 3]
+9-3ROmod, RO635 [Mod 3]
 9-3SSASSmod, Super SASS [Mod 3]
 9-3Type56mod, Type56R [Mod 3]
 9-3Type80mod, Type80 [Mod 3]
@@ -941,7 +941,7 @@ s1-AKalina, Kalina
 11-34---GepardM1, Gepard M1 [Mod 3]
 11-35---GrG36c, Gr G36c [Mod 3]
 11-36---K5, K5 [Mod 3]
-11-37---Kar98K, Kar98K [Mod 3]
+11-37---Kar98K, Kar98k [Mod 3]
 11-38---LeeEnfield, Lee Enfield [Mod 3]
 11-39---M1919A4, M1919A4 [Mod 3]
 11-40---Makarov, Makarov [Mod 3]
@@ -1197,7 +1197,7 @@ s1-AKalina, Kalina
 15-49---XM-89Shiki, 89 Shiki
 15-50---XM-CR-21, CR-21
 15-51---XM-Cx4Storm, Cx4 Storm
-15-52---XM-FNC, FN FNC
+15-52---XM-FNC, FF FNC
 15-53---XM-Python, Python
 15-54---XM-SAF, SAF
 15-55---XM-VP1915, VP1915
@@ -1266,3 +1266,123 @@ s1-AKalina, Kalina
 15-117---ST-PA-15, PA-15
 15-118---ST-SAF, SAF
 15-119---ST-SR-2, SR-2
+16-00---CV-416, 416
+16-01---CV-AUGPara, AUG Para
+16-02---CV-GrG11, Gr G11
+16-03---CV-GrSl8, Gr Sl8
+16-04---CV-UMP40, UMP40
+16-05---CV-UMP45, UMP45
+16-06---CV-UMP9, UMP9
+16-07---CV-VHS, VHS
+16-08---HW-G43, G43
+16-09---HW-JS9, JS 9
+16-10---HW-KH2002, KH2002
+16-11---HW-M327, M327
+16-12---HW-MG42, MG42
+16-13---HW-PPQ, PPQ
+16-14---HW-STEN, STEN MkII
+16-15---WX-4Shiki, 4 Shiki
+16-16---WX-Ak5, Ak 5
+16-17---WX-Liu, General Liu
+16-18---WX-QBZ-191, QBZ-191
+16-19---WX-Type56-1, Type56-1
+16-20---WX-VP1915, VP1915
+16-21---XM-BrenTen, Bren Ten
+16-22---XM-DeLisle, De Lisle
+16-23---XM-KSVK, KSVK
+16-24---XM-Lusa, Lusa
+16-25---XM-MPK, MPK
+16-26---XM-MPL, MPL
+16-27---NY-A-545, A-545
+16-28---NY-FX-05, FX-05
+16-29---NY-GrSL8, Gr SL8
+16-30---NY-MicroUzi, Micro Uzi
+16-31---NY-OTs-39, OTs-39
+16-32---NY-PPD-40, PPD-40
+16-33---CNY-APC556, APC556
+16-34---CNY-DP28, DP28
+16-35---CNY-Erma, Erma
+16-36---CNY-MK3A1, MK3A1
+16-37---CNY-Model99, Model 99
+16-38---CNY-Px4Storm, Px4 Storm
+16-39---CNY-RexZero1, Rex Zero 1
+16-40---CNY-Tabuk, Tabuk
+16-41---ZL-Ai, Ai Mizuno
+16-42---ZL-Junko, Junko Konno
+16-43---ZL-Lily, Lily Hoshikawa
+16-44---ZL-Saki, Saki Nikaidou
+16-45---ZL-Sakura, Sakura Minamoto
+16-46---ZL-Tae, Tae Yamada
+16-47---ZL-Yugiri, Yugiri
+16-48---WD-Astra, Astra
+16-49---WD-AUG, AUG
+16-50---WD-DP-12, DP-12
+16-51---WD-Mondragon, Mondragon
+16-52---WD-MP-443, MP-443
+16-53---WD-SP9, SP9
+16-54---WD-TAR-21, TAR-21
+16-55---PR-KH2002, KH2002
+16-56---PR-Kord, Kord
+16-57---PR-MP41, MP41
+16-58---PR-PTRD, PTRD
+16-59---PR-SIGMCX, SIG MCX
+16-60---PR-TS12, TS12
+16-61---AN-9A-91, 9A-91
+16-62---AN-Deagle, Desert Eagle
+16-63---AN-GrMG36, Gr MG36
+16-64---AN-HS50, HS.50
+16-65---AN-Kar98k, Kar98k
+16-66---AN-M1Garand, M1 Garand
+16-67---AN-Mk48, Mk48
+16-68---AN-SR2, SR-2
+16-69---CD-AA-12, AA-12
+16-70---CD-C96, C96
+16-71---CD-GrG11, Gr G11
+16-72---CD-GrPSG-1, Gr PSG-1
+16-73---CD-M1911, M1911
+16-74---CD-M240L, M240L
+16-75---BC-433, 433
+16-76---BC-AR-18, AR-18
+16-77---BC-LAMG, LAMG
+16-78---BC-Lusa, Lusa
+16-79---BC-Shorty, Super-Shorty
+16-80---BC-Type64, Type64
+16-81---BC-VP1915, VP1915
+16-82---OL-6P62, 6P62
+16-83---OL-AK-12, AK-12
+16-84---OL-AK-15, AK-15
+16-85---OL-AN-94, AN-94
+16-86---OL-DP-12, DP-12
+16-87---OL-GrG36, Gr G36
+16-88---OL-Grizzly, Grizzly
+16-89---OL-LTLX7000, LTLX 7000
+16-90---OL-LWMMG, LWMMG
+16-91---OL-Model99, Model 99
+16-92---OL-RPK-16, RPK-16
+16-93---OL-StG44, StG44
+16-94---DA-Liu, General Liu
+16-95---DA-GrG28, Gr G28
+16-96---DA-M14, M14
+16-97---DA-PA-15, PA-15
+16-98---DA-QBU-191, QBU-191
+16-99---DA-RMB-93, RMB-93
+16-100---HW-100Shiki, 100 Shiki
+16-101---HW-4Shiki, 4 Shiki
+16-102---HW-MicroUzi, Micro Uzi
+16-103---HW-NZ75, NZ75
+16-104---HW-Python, Python
+16-105---HW-Stechkin, Stechkin
+16-106---HW-Sterling, Sterling
+16-107---CF-A-545, A-545
+16-108---CF-Falcon, Falcon
+16-109---CF-M16A1, M16A1
+16-110---CF-M4SOPMODII, M4 SOPMOD II
+16-111---CF-M4A1, M4A1
+16-112---CF-RO635, RO635
+16-113---CF-STAR-15, ST AR-15
+16-114---AF-Liberator, Liberator
+16-115---Dande, Dandelion
+16-116---Griffin, Griffin
+16-117---Helian, Helianthus
+16-118---Ange, Angelia
+16-119---Kalina, Kalina
