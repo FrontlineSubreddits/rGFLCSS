@@ -101,7 +101,7 @@
 111---AAT52, AAT-52
 112---NEGEV, Negev
 113---Serdyukov, Serdyukov
-114---WelrodMkII, Welrod Mk II
+114---WelrodMkII, Welrod MkII
 115---Suomi, Suomi
 116---Z62, Z62
 117---PSG1, Gr PSG-1
@@ -122,7 +122,7 @@ two-131---EVO3, EVO 3
 two-132---59type, Type59
 two-133---Type63, Type63
 two-134---AR70, AR70
-two-135---SR3MP, SR3MP
+two-135---SR3MP, SR-3MP
 two-136---PP19, PP-19
 two-138---6P62, 6P62
 two-139---BrenTen, Bren Ten
@@ -248,7 +248,7 @@ three-Persica, Persica
 5-SFJUDGE, Judge
 5-SFOuroboros, Ouroboros
 5-SFScarecrow, Scarecrow
-5-SFM16A1, ???
+5-SFM16A1, Beluga
 6-GFA-91, A-91
 6-GFAK-74U, AK-74U
 6-GFCx4Storm, Cx4 Storm
@@ -457,7 +457,7 @@ three-Persica, Persica
 9-3Type56mod, Type56R [Mod 3]
 9-3Type80mod, Type80 [Mod 3]
 9-3Type97Smod, Type97S [Mod 3]
-9-3Welrodmod, Welrod Mk II [Mod 3]
+9-3Welrodmod, Welrod MkII [Mod 3]
 9-3XM3mod, XM3 [Mod 3]
 9-4K5XmasTemp, K5
 c1-AnniversaryDSR50, Gd DSR-50
@@ -469,7 +469,7 @@ c1-CNYT95, Type95
 c1-Child5-7, Five-seven
 c1-HalloweenSAT8, S.A.T.8
 c1-HalloweenWA2k, WA2000
-c1-HalloweenWelrod, Welrod Mk II
+c1-HalloweenWelrod, Welrod MkII
 c1-MaidNTW, NTW-20
 c1-NewYearHowaT64, 64 Shiki
 c1-PrinceTommy, Tommy
@@ -541,7 +541,7 @@ c2-SummerWA, WA2000
 c2-ValPTRD, PTRD
 c2-ValUMP45, UMP45
 c2-ValUMP9, UMP9
-c2-ValWelrod, Welrod Mk II
+c2-ValWelrod, Welrod MkII
 c2-WeddingFAL, FAL
 c2-WeddingP7, P7
 c2-WeddingPK, PK
@@ -562,7 +562,7 @@ c3-AnnivColt, SAA
 c3-AnnivEVO3, EVO 3
 c3-AnnivUMP45, UMP45
 c3-AnnivUMP9, UMP9
-c3-AnnivWelrod, Welrod Mk II
+c3-AnnivWelrod, Welrod MkII
 c3-AnnivZas, ZAS M21
 c3-CNYART, ART556
 c3-CNYHanyang, Type88
@@ -1017,7 +1017,7 @@ s1-AKalina, Kalina
 12-49---ScarecrowElite, Scarecrow Elite
 12-50---Scarecrow-Abyss, Scarecrow Abyss
 12-51---Scarecrow-AbyssElite, Scarecrow Abyss Elite
-12-52---JawsParadise, Jaws Paradise
+12-52---JawsParadise, Great White Playground
 12-53---StrikerSWAP, Striker_SWAP
 12-54---VespidSWAP, Vespid_SWAP
 12-55---Tareus, Tareus
@@ -1249,7 +1249,7 @@ s1-AKalina, Kalina
 15-100---BC-CF-05, CF-05
 15-101---BC-EVO3, EVO3
 15-102---BC-HS50, HS.50
-15-103---BC-IWS, IWS2000
+15-103---BC-IWS, IWS 2000
 15-104---BC-M6ASW, M6 ASW
 15-105---BC-Savage, Model 99
 15-106---BC-Sterling, Sterling
@@ -1506,3 +1506,20 @@ s1-AKalina, Kalina
 17-117-AP-HS50, HS.50
 17-118-AP-M1887, M1887
 17-119-AP-SPAS15, SPAS-15
+18-00-AP-SR2, SR-2
+18-01-AP-STAR15, ST AR-15
+18-02-AP-WelrodMkII, Welrod MkII
+18-03-ColtM1851N, Colt M1851N
+18-04-Martini-Henry, Martini-Henry
+18-05-P50, P50
+18-06-Mod-ZasM21, Zas M21 [Mod 3]
+18-07-Mod-CR-21, CR-21 [Mod 3]
+18-08-HeroFairy, Hero
+18-10-Gray, Gray
+18-11-Gray-Elite, Gray Elite
+18-12-Mk18, Mk. 18
+18-13-SIGCROSS, SIG CROSS
+18-14-XM556, XM556
+18-15-SIGM400, SIG M400
+18-16-Healing, Healing
+18-17-HTI, HTI
